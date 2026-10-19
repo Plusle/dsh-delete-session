@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Delete Session",
+    "description": "Delete a session from its row menu: the conversation log, title and list cache are removed."
+  }
+}

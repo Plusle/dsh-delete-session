@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Delete session">
+  <rect width="64" height="64" rx="14" fill="#2b3440"/>
+  <g fill="none" stroke="#f3f6fa" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M20 22h24"/>
+    <path d="M27 22v-4h10v4"/>
+    <path d="M23 22l1.6 22h14.8L41 22"/>
+    <path d="M28 28.5v10"/>
+    <path d="M36 28.5v10"/>
+  </g>
+</svg>

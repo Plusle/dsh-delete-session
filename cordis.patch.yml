@@ -1,0 +1,4 @@
+# delete-session bundle: one Host row. The Client half comes from dsh.client.
+- insert:
+    - id: delete-session
+      name: 'delete-session'
